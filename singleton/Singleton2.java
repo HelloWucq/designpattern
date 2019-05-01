@@ -1,5 +1,5 @@
 /**
- * Singleton2
+ * Singleton2 懒加载，线程安全
  */
 public class Singleton2 {
 
